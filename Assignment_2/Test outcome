@@ -1,0 +1,62 @@
+run:
+Please enter value of n: 10
+=======================================================================================================
+The Average number of generated connections after running 100 times of count() is: 16.0
+The Number of generated connections base on the formula n * 0.5 * Math.log(n)  is: 11.51292546497023
+The Reletive Error is: 0.3897423420904056
+======================================================================================================
+Please enter value of n: 20
+=======================================================================================================
+The Average number of generated connections after running 100 times of count() is: 37.0
+The Number of generated connections base on the formula n * 0.5 * Math.log(n)  is: 29.957322735539908
+The Reletive Error is: 0.2350903425727361
+======================================================================================================
+Please enter value of n: 30
+=======================================================================================================
+The Average number of generated connections after running 100 times of count() is: 60.0
+The Number of generated connections base on the formula n * 0.5 * Math.log(n)  is: 51.01796072493233
+The Reletive Error is: 0.17605641518082424
+======================================================================================================
+Please enter value of n: 1000
+=======================================================================================================
+The Average number of generated connections after running 100 times of count() is: 3762.0
+The Number of generated connections base on the formula n * 0.5 * Math.log(n)  is: 3453.8776394910683
+The Reletive Error is: 0.08921056061335565
+======================================================================================================
+Please enter value of n: 2000
+=======================================================================================================
+The Average number of generated connections after running 100 times of count() is: 8259.0
+The Number of generated connections base on the formula n * 0.5 * Math.log(n)  is: 7600.902459542082
+The Reletive Error is: 0.08658150054691859
+======================================================================================================
+Please enter value of n: 3000
+=======================================================================================================
+The Average number of generated connections after running 100 times of count() is: 12697.0
+The Number of generated connections base on the formula n * 0.5 * Math.log(n)  is: 12009.55135147537
+The Reletive Error is: 0.05724182597713593
+======================================================================================================
+Please enter value of n: 100
+=======================================================================================================
+The Average number of generated connections after running 100 times of count() is: 275.0
+The Number of generated connections base on the formula n * 0.5 * Math.log(n)  is: 230.25850929940458
+The Reletive Error is: 0.19430982523394247
+======================================================================================================
+Please enter value of n: 200
+=======================================================================================================
+The Average number of generated connections after running 100 times of count() is: 588.0
+The Number of generated connections base on the formula n * 0.5 * Math.log(n)  is: 529.8317366548036
+The Reletive Error is: 0.10978629500839845
+======================================================================================================
+Please enter value of n: 300
+=======================================================================================================
+The Average number of generated connections after running 100 times of count() is: 946.0
+The Number of generated connections base on the formula n * 0.5 * Math.log(n)  is: 855.5673711984301
+The Reletive Error is: 0.10569901546724134
+======================================================================================================
+Please enter value of n: 5000
+=======================================================================================================
+The Average number of generated connections after running 100 times of count() is: 22866.0
+The Number of generated connections base on the formula n * 0.5 * Math.log(n)  is: 21292.982978540596
+The Reletive Error is: 0.07387490156004516
+======================================================================================================
+成功构建 (总时间: 27 秒)
